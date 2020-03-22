@@ -1,0 +1,2 @@
+# olaword
+starting programming
